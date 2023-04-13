@@ -1,5 +1,9 @@
+<p align="center">
+    <img src="./simple.-bot-image1024x1024.png">
+</p>
+
 # Discord Bot
-A simple bot written with [discordjs](discord.js.org) for the Discord chat platform.
+A simple bot written with [discordjs](https://discord.js.org) for the Discord chat platform.
 
 ## Installation
 1. Clone the repository
