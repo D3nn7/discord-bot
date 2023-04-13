@@ -1,0 +1,36 @@
+{
+  "name": "discordjs-bot",
+  "version": "1.0.0",
+  "description": "A simple bot written with discordjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "deploy": "node ./deploy.js",
+    "dev-deploy": "nodemon ./deploy.js",
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3nn7/discordjs-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "discord",
+    "bot"
+  ],
+  "author": "D3NN7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D3nn7/discordjs-bot/issues"
+  },
+  "homepage": "https://github.com/D3nn7/discordjs-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "nodemon": "^2.0.22"
+  }
+}
