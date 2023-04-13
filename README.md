@@ -2,6 +2,8 @@
     <img src="./simple.-bot-image1024x1024.png">
 </p>
 
+> 🚨 **Attention**: This code is written entirely in JavaScript instead of TypeScript. Be careful
+
 # Discord Bot
 A simple bot written with [discordjs](https://discord.js.org) for the Discord chat platform.
 
